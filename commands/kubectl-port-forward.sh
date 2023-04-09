@@ -1,0 +1,1 @@
+kubectl port-forward service/mongo 27018:27017
