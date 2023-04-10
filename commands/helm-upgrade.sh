@@ -1,1 +1,1 @@
-helm upgrade mongo ./helm --install
+helm upgrade mongo ./helm --install --history-max 3
